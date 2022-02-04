@@ -1,0 +1,107 @@
+3-Band EQ	VST3	EQ	1	0	2020-11-28
+8 Bit Shaper	VST2	Distortion	1	0	2017-11-29
+ADHD Leveling Tool	VST2	Dynamics	1	0	2018-12-01
+Bitcrush	VST3	Distortion	0	1	2020-11-28
+Bitter Sweet V3	VST3	Dynamics	1	0	2019-04-11
+BX Cleansweep V2	VST3	Filter	1	1	2017-05-24
+BX_Rockrack V3 Player	VST3	Distortion	1	1	2017-05-24
+CamelCrusher	VST2	Distortion	1	0	2018-12-01
+CarveEQ	VST3	EQ	0	1	2020-11-28
+Chorus	VST3	Chorus	1	0	2020-11-28
+Comb Filter	VST3	Filter	0	1	2020-11-28
+Compressor	VST3	Dynamics	0	1	2020-11-28
+Convolver	VST3	Reverb	0	1	2020-11-28
+Correlometer	VST2	Monitoring	1	0	2017-09-22
+Delay	VST3	Delay	1	0	2020-11-28
+Delta Modulator	VST2	Distortion	1	0	2017-11-29
+Disperser	VST3	Filter	0	1	2020-11-28
+Distortion	VST3	Distortion	0	1	2020-11-28
+Dynamics	VST3	Dynamics	0	1	2020-11-28
+Ensemble	VST3	Chorus	0	1	2020-11-28
+Faturator	VST3	Distortion	0	1	2020-11-28
+Filter	VST3	Filter	0	1	2020-11-28
+Flanger	VST3	Filter	0	1	2020-11-28
+Formant Filter	VST3	Filter	0	1	2020-11-28
+Fresh Air	VST3	Misc	1	0	2020-11-27
+Gain	VST3	Utility	1	0	2020-11-28
+Gate	VST3	Gate	0	1	2020-11-28
+GClip	VST2	Distortion	1	0	2020-12-27
+Glitch	VST2	Host	1	0	2019-04-11
+GSnap	VST2	Pitch Correction	1	0	2018-01-17
+Haas	VST3	Imaging	0	1	2020-11-28
+Krush	VST3	Distortion	1	0	2017-06-19
+Ladder Filter	VST3	Filter	0	1	2020-11-28
+Limiter	VST3	Dynamics	1	0	2020-11-28
+Loudness Meter II	VST3	Monitoring	1	0	2017-09-22
+Loudness Meter II Pro	VST3	Monitoring	0	1	2018-09-20
+MAutoPan	VST3	Modulation	1	0	2017-04-05
+MAutoPitch	VST3	Pitch Correction	1	0	2017-04-05
+MBandPass	VST3	Filter	1	0	2017-04-05
+MBitFun	VST3	Distortion	1	0	2017-04-05
+MComb	VST3	Filter	1	0	2017-04-05
+MCompressor	VST3	Dynamics	1	0	2017-04-05
+MConvolutionEZ	VST3	Reverb	1	0	2017-04-05
+Melodyne Essential	VST3	Pitch Correction	0	1	2020-08-21
+MEqualizer	VST3	EQ	1	0	2017-04-05
+MFlanger	VST3	Filter	1	0	2017-04-05
+MFreqShifter	VST3	Misc	1	0	2017-04-05
+MPhaser	VST3	Filter	1	0	2017-04-05
+MRingModulator	VST3	Modulation	1	0	2017-04-05
+MSaturator	VST3	Distortion	1	0	2017-04-05
+MTremolo	VST3	Modulation	1	0	2017-04-05
+Multipass	VST3	Host	0	1	2020-11-28
+MVibrato	VST3	Pitch Shift	1	0	2017-04-05
+MWaveFolder	VST3	Distortion	1	0	2017-04-05
+Niveau Filter	VST3	Filter	1	1	2017-05-24
+Nonlinear Filter	VST3	Filter	0	1	2020-11-28
+OldSkoolVerb	VST2	Reverb	0	0	2017-09-22
+OTT	VST2	Dynamics	1	0	2017-11-29
+Ozone 9 Advanced	VST3	Mastering	0	1	2020-08-21
+Ozone Imager II	VST3	Imaging	1	1	2017-06-19
+PanCake II	VST2	Modulation	1	0	2020-12-27
+Phase Distortion	VST3	Distortion	0	1	2020-11-28
+Phaser	VST3	Filter	0	1	2020-11-28
+Pitch Shifter	VST3	Pitch Shift	0	1	2020-11-21
+Pro-C 2	VST3	Dynamics	0	1	2020-11-25
+Pro-DS	VST3	Dynamics	0	1	2020-11-25
+Pro-G	VST3	Gate	0	1	2021-08-08
+Pro-L 2	VST3	Dynamics	0	1	2020-11-25
+Pro-MB	VST3	Dynamics	0	1	2020-11-25
+Pro-Q 3	VST3	EQ	0	1	2019-04-30
+Pro-R	VST3	Reverb	0	1	2020-11-25
+Resonator	VST3	Misc	0	1	2020-11-28
+Reverb	VST3	Reverb	0	1	2020-11-28
+Reverser	VST3	Misc	0	1	2020-11-28
+Ring Mod	VST3	Modulation	0	1	2020-11-28
+Rough Rider 3	VST2	Dynamics	1	0	2018-10-08
+Saturation Knob	VST3	Distortion	1	1	2017-06-19
+Saturn 2	VST3	Distortion	0	1	2021-08-08
+Slice EQ	VST3	EQ	0	1	2020-11-28
+SnapHeap	VST3	Host	0	0	2020-11-28
+SPAN	VST3	Monitoring	1	0	2017-09-22
+Stereo	VST3	Imaging	1	0	2020-11-28
+TAL Reverb 4	VST2	Reverb	1	0	2020-03-19
+TAL-Vocoder	VST2	Misc	1	0	2017-04-05
+Tape Stop	VST3	Misc	0	1	2020-11-28
+TapeDelay	VST2	Delay	1	0	2018-09-03
+TDR Kotelnikov	VST3	Dynamics	1	0	2020-10-16
+TDR Molotok	VST3	Dynamics	1	0	2020-10-16
+TDR NOVA	VST3	EQ	1	0	2020-10-16
+TDR VOS SlickEQ	VST3	EQ	1	0	2020-10-16
+Temper	VST2	Dynamics	1	0	2019-04-11
+Timeless 3	VST3	Delay	0	1	2021-08-08
+Trance Gate	VST3	Gate	0	1	2020-11-28
+Transient Shaper	VST3	Dynamics	0	1	2020-11-28
+Valhalla FreqEcho	VST3	Delay	1	0	2020-07-11
+Valhalla SpaceModulator	VST3	Filter	1	0	2020-07-11
+Valhalla SuperMassive	VST3	Reverb	1	0	2020-07-11
+Valhalla UberMod	VST3	Chorus	0	1	2020-07-11
+Valhalla VintageVerb	VST3	Reverb	0	1	2020-07-11
+ValhallaDelay	VST3	Delay	0	1	2020-07-11
+ValhallaPlate	VST3	Reverb	0	1	2020-07-11
+ValhallaRoom	VST3	Reverb	0	1	2020-07-11
+ValhallaShimmer	VST3	Reverb	0	1	2020-07-11
+Vinyl	VST3	Distortion	1	1	2017-06-19
+VladG Limiter no.6	VST2	Dynamics	1	0	2020-10-16
+Vocal Doubler	VST3	Misc	1	1	2017-06-19
+VOLOCO	VST3	Pitch Correction	1	0	2019-07-14
